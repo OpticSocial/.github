@@ -1,1 +1,1 @@
-OpticSocial
+![Optic.social Banner](github-banner.png)
